@@ -22,6 +22,7 @@
 ###############
 
 * Loup Fourment
+[bkoj-arch](https://github.com/bkoj-arch)
 
 ###############
 # Description #

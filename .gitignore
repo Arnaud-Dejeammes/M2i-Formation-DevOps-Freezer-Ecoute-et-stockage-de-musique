@@ -4,3 +4,5 @@
 # https://docs.github.com/fr/get-started/getting-started-with-git/ignoring-files?platform=linux
 # en :
 # https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+.svg

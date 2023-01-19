@@ -1,5 +1,0 @@
-# Liste des fichiers contenant des données sensibles à exclure ou sans intérêt pour le projet
-# Notice d'utilisation :
-# https://docs.github.com/fr/get-started/getting-started-with-git/ignoring-files?platform=linux
-
-.svg

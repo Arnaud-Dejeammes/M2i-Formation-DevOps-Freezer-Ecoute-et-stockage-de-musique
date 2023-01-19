@@ -9,13 +9,13 @@
 * Hayet Yefsah
 [hayetyefsah](https://github.com/hayetyefsah)
 * Charles Ramade
-[smogg22] (https://github.com/Smogg22)
+[smogg22](https://github.com/Smogg22)
 * Yassine Nassiri
-[Yvss059] (https://github.com/Yvss059)
+[Yvss059](https://github.com/Yvss059)
 * Julio Aspajo Durand
-[jaspajod] (https://github.com/jaspajod)
+[jaspajod](https://github.com/jaspajod)
 * Arnaud Dejeammes
-[Arnaud-Dejeammes] (https://github.com/Arnaud-Dejeammes)
+[Arnaud-Dejeammes](https://github.com/Arnaud-Dejeammes)
 
 ###############
 # Supervision #
